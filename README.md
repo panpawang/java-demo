@@ -1,5 +1,6 @@
 
 - [x] ✅ head-first-design-patterns
+- [ ] ❌ concurrent-book
 - [ ] ❌ geektime-spring-family 
 - [ ] ❌ spring-boot-reference 
 

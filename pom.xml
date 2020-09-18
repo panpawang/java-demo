@@ -11,6 +11,7 @@
 
     <modules>
         <module>design-pattern</module>
+        <module>concurrent</module>
     </modules>
 
 </project>
