@@ -7,11 +7,12 @@
     <artifactId>java-demo</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
-    <name>java-demos</name>
+    <name>java-demo</name>
 
     <modules>
         <module>design-pattern</module>
         <module>concurrent</module>
+        <module>java-apis</module>
     </modules>
 
 </project>
