@@ -1,4 +1,4 @@
-package badlock;
+package lock.badlock;
 
 /**
  * 这个锁到了方法的局部变量- -！！

@@ -1,4 +1,4 @@
-package badlock;
+package lock.badlock;
 
 /**
  * 在普通方法上加锁是锁实例对象，static int i 属于类的全局变量
