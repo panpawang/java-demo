@@ -2,6 +2,7 @@
 - [x] ✅ head-first-design-patterns
 - [ ] ❌ java-api
 - [x] ✅ concurrent-book
+- [x] ✅ spring-cloud-docker-microservice-book-code
 - [ ] ❌ geektime-spring-family 
 - [ ] ❌ spring-boot-reference 
 

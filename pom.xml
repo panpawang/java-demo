@@ -13,6 +13,7 @@
         <module>design-pattern</module>
         <module>concurrent</module>
         <module>java-apis</module>
+        <module>spring-cloud-docker-microservice-book-code</module>
     </modules>
 
 </project>
