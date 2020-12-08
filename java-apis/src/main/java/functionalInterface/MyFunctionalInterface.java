@@ -13,4 +13,6 @@ public interface MyFunctionalInterface {
 
     public abstract void method();
 
+    boolean equals(Object obj);
+
 }

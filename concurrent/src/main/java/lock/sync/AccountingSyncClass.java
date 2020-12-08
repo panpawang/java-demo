@@ -1,4 +1,4 @@
-package sync;
+package lock.sync;
 
 public class AccountingSyncClass implements Runnable{
 	static int i=0;

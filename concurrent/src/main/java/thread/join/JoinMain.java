@@ -11,7 +11,9 @@ public class JoinMain {
     public static void main(String[] args) throws InterruptedException {
         AddThread at=new AddThread();
         at.start();
+        System.out.println(at.isAlive());
         at.join();
+        System.out.println(at.isAlive());
         System.out.println(i);
     }
 }
