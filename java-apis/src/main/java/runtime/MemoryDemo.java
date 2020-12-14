@@ -1,4 +1,4 @@
-package memory;
+package runtime;
 
 /***
  * @description: Demonstrate totalMemory(), freeMemory() and gc()
